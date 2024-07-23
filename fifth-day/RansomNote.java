@@ -1,3 +1,7 @@
+// Harold, a kidnapper, is worried his ransom note might be traced back to him through his handwriting. He wants to know if he can cut out whole words from a magazine to replicate his ransom note exactly. The words in his note are case-sensitive, and he must use only whole words available in the magazine. He cannot use substrings or concatenation.
+// Given the words in the magazine and the words in the ransom note, print "Yes" if he can replicate his ransom note exactly using whole words from the magazine; otherwise, print "No". For example: magazine = "attack at dawn" note = "Attack at dawn"
+// The magazine has all the right words, but there is a case mismatch, so the answer is "No".
+
 import java.util.HashMap;
 import java.util.Map;
 

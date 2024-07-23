@@ -1,3 +1,10 @@
+// Write a function called `occurrences` that, given an array of numbers `A`, prints all the distinct values in `A`, each followed by its number of occurrences. For example, if `A = (28, 1, 0, 1, 0, 3, 4, 0, 0, 3)`, the function should output: 
+// 28 1
+// 1 2
+// 0 4
+// 3 2 
+// 4 1
+
 import java.util.HashMap;
 import java.util.Map;
 

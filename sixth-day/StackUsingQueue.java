@@ -1,3 +1,5 @@
+// Write a program to implement a stack using a queue.
+
 import java.util.LinkedList;
 import java.util.Queue;
 

@@ -1,3 +1,5 @@
+// Write a program initializing an array of size 20 and searching for an element using binary search.
+
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;

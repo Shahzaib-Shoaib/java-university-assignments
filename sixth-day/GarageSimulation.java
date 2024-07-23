@@ -1,3 +1,8 @@
+// Write a program that processes a group of input lines, each containing an 'A' for arrival, a 'D' for departure, and a license plate number. Cars are assumed to arrive and depart in the order specified. The program should:
+// a) Print a message whenever a car arrives or departs.
+// b) When a car arrives, the message should specify whether there is room for the car in the garage. If there is no room, the car leaves without entering the garage.
+// c) When a car departs, the message should include the number of times the car was moved out of the garage to allow other cars to depart.
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;

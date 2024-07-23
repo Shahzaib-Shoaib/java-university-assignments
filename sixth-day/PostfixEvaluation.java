@@ -1,3 +1,5 @@
+// Write a program that evaluates the following postfix expression using a stack implemented with an array.
+
 public class PostfixEvaluation {
 
     static class ArrayStack {

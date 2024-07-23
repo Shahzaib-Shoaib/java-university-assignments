@@ -1,3 +1,5 @@
+// Enter data for a cricket team of 11 players, where each player's runs are stored as a hash table value. Find out the rank number of a player based on the formula: `Runs % 11`. For example, if runs are 30, the index number is 8, and rank #8 is the rank of the team member. (Use HashTable ADT class)
+
 import java.util.Hashtable;
 import java.util.Scanner;
 
